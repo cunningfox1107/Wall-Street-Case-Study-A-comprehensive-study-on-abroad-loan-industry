@@ -1,0 +1,2 @@
+# Wall-Street-Case-Study-A-comprehensive-study-on-abroad-loan-industry
+A detailed analysis of Lorien Finance, a cross-border fintech platform providing education loans to Indian students abroad. The report highlights the company’s strengths, opportunities, challenges, threats, and strategic solutions, with insights on regulatory compliance and marketing strategies in the rapidly growing study-abroad loan sector.
